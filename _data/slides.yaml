@@ -3,10 +3,15 @@
   gif_name: invivo1.gif
   caption: Here are some keratocytes in vivo
   slide_number: 5
+  video_gif_names:
+    - invivo1.gif
+    - invitro1.gif
 
 - 002:
   slide_filename: KennardDefense.003.png
   gif_name: invitro1.gif
   caption: Here are some keratocytes in vitro
   slide_number: 10
+  video_gif_names:
+    - invitro1.gif
 

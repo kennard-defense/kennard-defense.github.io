@@ -12,11 +12,14 @@
       <h1>Andrew Kennard's Thesis Defense</h1>
       <h2> Supplementary videos </h2>
       <br>
-      {% for video in site.data.videos %}
+      {% for slide in site.data.slides %}
       <div class="tab">
          <div class="row">
             <div class="col-lg-7 align-text-center">
-               <img src="{{ site.baseurl }}/assets/gifs/{{ video.gif_name }}" width="70%"> <br>
+               {% for gif_name in slide.video_gif_names %}
+               <img src="{{ site.baseurl }}/assets/gifs/{{ gif_name }}" width="70%"> <br><br>
+               {% endfor %}
+               
             </div>
             <div class="col-lg-5">
                <div class="row">
@@ -35,7 +38,7 @@
                      <button type="button" class="btn btn-primary" onclick="switchTab(1)">Prev slide with video</button> 
                   </div>
                   <div class="col-4 text-center">
-                Slide {{video.slide_number}}
+                Slide {{slide.slide_number}}
                   </div>
                   <div class="col-4">
                   <button type="button" class="btn btn-primary" onclick="switchTab(-1)">Next slide with video</button>
@@ -45,7 +48,7 @@
                   <br>
                   <div class="row">
                   <div class="col-12 text-center">
-                                  <img style='border:1px solid #000000' src="{{ site.baseurl }}/assets/slides/{{ video.slide_filename }}"
+                                  <img style='border:1px solid #000000' src="{{ site.baseurl }}/assets/slides/{{ slide.slide_filename }}"
                   width="200">
                   </div>
                   </div>
@@ -53,7 +56,7 @@
                <div class="row">
                   <div class="col-12">
                      <br>
-                     {{ video.caption }}
+                     {{ slide.caption }}
                      <br>
                      <br>
                   </div>
