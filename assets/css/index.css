@@ -5,3 +5,34 @@
     border: none;
 
 }
+.tab {
+  background-color:  #ffffff;
+  display: none;
+}
+
+
+body {
+  background-color:  #2e4053;
+}
+
+
+div {
+  background-color:  #ffffff;
+}
+
+
+
+.ImageBorder
+{
+    border-width: 1px;
+    border-color: Black;
+}
+
+
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #2e4053 !important;
+
+white-space:normal !important;
+    max-width:100px;
+}
