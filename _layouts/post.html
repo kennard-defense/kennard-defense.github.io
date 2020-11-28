@@ -48,7 +48,12 @@
                   <br>
                   <div class="row">
                   <div class="col-12 text-center">
-                                  <img style='border:1px solid #000000' src="{{ site.baseurl }}/assets/slides/{{ slide.slide_filename }}"
+
+                   
+                  <img style='border:1px solid #000000'
+                    src="{{site.baseurl }}/assets/slides/KennardDefense.{{
+                         slide.slide_number | prepend: '0000' | slice: -3, 3
+                         }}.png"
                   width="200">
                   </div>
                   </div>
