@@ -5,7 +5,7 @@
     - 2dpf_100x1p5opt_60fpm_2-226.gif
 
 - 002:
-  caption: Cell migration contributes to wound healing (collective migratino)
+  caption: Cell migration contributes to wound healing (collective migration)
   slide_number: 7
   video_gif_names:
     - 2dpf_100x1p5opt_60fpm_2-226.gif
@@ -28,7 +28,7 @@
   slide_number: 12
   video_gif_names:
     - 20190312_20x_NoWounding_3_MaxZ_MinusBkgd_registered_20190404_cropped_LifeAct_8bit_labeled_7fps.gif
-    - 3dpf untreated 4.gif
+    - 3dpf-untreated-4.gif
 
 - 006:
   caption: Tracking feature points reports on local movement during wound healing
