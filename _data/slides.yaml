@@ -1,5 +1,4 @@
 - 001:
-  slide_filename: KennardDefense.001.png
   caption: Here are some keratocytes in vivo
   slide_number: 5
   video_gif_names:
@@ -7,7 +6,6 @@
     - invitro1.gif
 
 - 002:
-  slide_filename: KennardDefense.003.png
   caption: Here are some keratocytes in vitro
   slide_number: 10
   video_gif_names:
