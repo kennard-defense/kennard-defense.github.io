@@ -51,7 +51,7 @@
 
 - 009:
   caption: Isotonic sodium chloride inhibits the wound response more potently than other osmolytes!
-  slide number: 20
+  slide_number: 20
   video_gif_names:
     - HypoLowMagExample.gif
     - NaClLowMagExample.gif
