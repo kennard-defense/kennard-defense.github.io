@@ -1,65 +1,65 @@
 - 001:
-  caption: Cell migration contributes to wound healing (single cell migration)
-  slide_number: 6
+  caption: fish epidermal skin cell crawling on glass
+  slide_number: 5
   video_gif_names:
     - 2dpf_100x1p5opt_60fpm_2-226.gif
 
 - 002:
   caption: Cell migration contributes to wound healing (collective migration)
-  slide_number: 7
+  slide_number: 6
   video_gif_names:
     - 2dpf_100x1p5opt_60fpm_2-226.gif
     - scratchAssay_44512_intensity_corr.gif
 
 - 003:
-  caption: Zebrafish is a model for skin biology
-  slide_number: 9
+  caption: Confocal reconstruction of one side of a zebrafish larva
+  slide_number: 8
   video_gif_names:
     - FusedFlipped_nozoom.gif
 
 - 004:
   caption: Zebrafish epidermis rapidly responds to injury (wounding procedure)
-  slide_number: 10
+  slide_number: 9
   video_gif_names:
     - 20170630_10x_1p5opt_7spf_NoDrug_1_cropped_intensity_corr_8bit_labeled.gif
 
 - 005:
-  caption: Zebrafish epidermis rapidly responds to injury (F-actin rearrangment)
-  slide_number: 12
+  caption: Rearrangement of the basal cell actin cytoskeleton during the wound response
+  slide_number: 11
   video_gif_names:
     - 20190312_20x_NoWounding_3_MaxZ_MinusBkgd_registered_20190404_cropped_LifeAct_8bit_labeled_7fps.gif
     - 3dpf-untreated-4.gif
 
 - 006:
   caption: Tracking feature points reports on local movement during wound healing
-  slide_number: 13
+  slide_number: 12
   video_gif_names:
     - trackingPlotRandomPoints.gif
     - trackingExample10fps.gif
 
 - 007:
   caption: Isotonic solutions inhibit wound response
-  slide_number: 14
+  slide_number: 13
   video_gif_names:
     - Hypo_IsoNaCl_compare.gif
 
 - 008:
-  caption: Generating a stable osmolyte concentration gradient at the larval tail
-  slide_number: 16
+  caption: Demonstrating the device for maintaining distinct media composition on the head and tail of the larva
+  slide_number: 15
   video_gif_names:
     - 20191121_CalibratedMovie_RGB_labeled.gif
 
 - 009:
-  caption: Isotonic sodium chloride inhibits the wound response more potently than other osmolytes!
-  slide_number: 20
+  caption: Isotonic sodium chloride inhibits the wound response more potently than other osmolytes
+  slide_number: 19
   video_gif_names:
     - HypoLowMagExample.gif
     - NaClLowMagExample.gif
     - ChlClLowMagExample.gif
 
 - 010:
-  caption: Sodium Chloride specifically inhibits actin polarization
-  slide_number: 21
+  caption: Measuring changes in actin intensity through image warping
+  slide_number: 20
   video_gif_names:
     - Hypo_stacked_labeled.gif
     - NaCl_stacked_labeled.gif
@@ -67,76 +67,76 @@
 
 - 011:
   caption: Introducing an electric field is sufficient to promote migration
-  slide_number: 26
+  slide_number: 25
   video_gif_names:
     - SV6_ElectricFieldExample_NoCompression.gif
 
 - 012:
   caption: Electric fields can override endogenous wound signals
-  slide_number: 27
+  slide_number: 26
   video_gif_names:
     - EfieldWoundingMovie_Wounding5.gif
     - WoundingStimulationInset.gif
 
 - 013:
-  caption: Applications of electric fields for wound healing
-  slide_number: 29
+  caption: Zebrafish skin may help unravel the mechanism of how cells sense electric fields
+  slide_number: 28
   video_gif_names:
     - WoundingStimulationInset.gif
     - AllenTurning_Relabeled.gif
 
 - 014:
   caption: Zebrafish epidermis rapidly responds to injury
-  slide_number: 31
+  slide_number: 30
   video_gif_names:
     - 20170630_10x_1p5opt_7spf_NoDrug_1_cropped_intensity_corr_8bit_labeled.gif
 
 - 015:
-  caption: Basal cells separate after migratng to a wound
-  slide_number: 32
+  caption: Basal cells separate after migrating to a wound
+  slide_number: 31
   video_gif_names: 
     - SupplementalVideo_05_separation.gif
     - Separation_Vesicles_Membrane.gif
 
 - 016:
-  caption: Basal cells separate after migrating to a wound
-  slide_number: 33
+  caption: Quantifying the extent of separation by detecting separated gaps
+  slide_number: 32
   video_gif_names:
     - Separation_quantification.gif
 
 - 017:
   caption: Basal cell separation propagates outward in a wave
-  slide_number: 34
+  slide_number: 33
   video_gif_names:
     - Separation_index_only.gif
 
 - 018:
   caption: Only the basal skin layer separates
-  slide_number: 35
+  slide_number: 34
   video_gif_names:
     - EcadTwoLayersSeparationCompare_labeled.gif
 
 - 019:
   caption: Cell-cell junctions persist through separation
-  slide_number: 36
+  slide_number: 35
   video_gif_names:
     - Ecad_mCh_Compare_labeled_magentayellow.gif
 
 - 020:
   caption: Separated gaps are continuous and located apically
-  slide_number: 40
+  slide_number: 39
   video_gif_names:
     - SV9_histology.gif
     - Histology_cropped_movie.gif
 
 - 021:
   caption: Separated gaps are continuous
-  slide_number: 41
+  slide_number: 40
   video_gif_names:
     - movie3.gif
 
 - 022:
   caption: Myosin contractility may promote separation
-  slide_number: 42
+  slide_number: 41
   video_gif_names:
     - 20200920_40x_mCherryOnly_30uMnitroBlebb-20minbeforewound_Wounding_1_surfcut_labeled.gif
