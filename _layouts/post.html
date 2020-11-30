@@ -15,7 +15,8 @@
          <div class="row">
             <div class="col-lg-7 align-text-center">
                {% for gif_name in slide.video_gif_names %}
-               <img src="{{ site.baseurl }}/assets/gifs/{{ gif_name }}" width="70%"> <br><br>
+               <img src="{{ site.baseurl }}/assets/gifs/{{ gif_name }}"
+                    width="100%"> <br><br>
                {% endfor %}
                
             </div>
@@ -50,13 +51,13 @@
                   <img style='border:1px solid #000000'
                     src="{{site.baseurl }}/assets/slides/KennardDefense.{{
                          slide.slide_number | prepend: '00' | slice: -3, 3
-                         }}.png"
+                         }}.jpeg"
                   width="300">
                   </div>
                   </div>
 
                <div class="row">
-                  <div class="col-12">
+                  <div class="col-12 text-center">
                      <br>
                      {{ slide.caption }}
                      <br>
